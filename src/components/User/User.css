@@ -1,0 +1,23 @@
+.User {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  width: 100px;
+
+  margin-right: 1.5em;
+}
+
+.User-avatar {
+  height: 100px;
+  width: 100px;
+
+  margin-bottom: 10px;
+
+  border-radius: 50%;
+}
+
+.User-login {
+  text-align: center;
+}
+

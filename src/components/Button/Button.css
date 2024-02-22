@@ -1,0 +1,33 @@
+@font-face {
+  font-weight: 700;
+  font-family: "Roboto";
+  src: url("/public/fonts/Roboto-Regular.ttf");
+}
+
+.Button {
+  width: 92px;
+  height: 41px;
+
+  padding: 10px 25px;
+
+  font-size: 18px;
+
+  border: none;
+  border-radius: 10px;
+
+  color: #0A0A0A;
+  background-color: #FFFFFF;
+}
+
+.Button:hover {
+  background-color: #CFCFCF;
+}
+
+.Button:active {
+  background-color: #FFFFFF;
+}
+
+.Button:disabled {
+  color: #878787;
+  background-color: #5F5F5F;
+}
