@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/intro-to-react-train/static/css/main.8df914c1.css",
+    "main.js": "/intro-to-react-train/static/js/main.b1dccd4c.js",
+    "static/media/SF-Pro-Display-Medium.otf": "/intro-to-react-train/static/media/SF-Pro-Display-Medium.b85d841dacb040b84951.otf",
+    "static/media/SF-Pro-Display-Bold.otf": "/intro-to-react-train/static/media/SF-Pro-Display-Bold.b1f4d2c69fa808ebca12.otf",
+    "static/media/Roboto-Regular.ttf": "/intro-to-react-train/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
+    "static/media/emoji.png": "/intro-to-react-train/static/media/emoji.72e4dbb15b4bf056515e.png",
+    "index.html": "/intro-to-react-train/index.html",
+    "main.8df914c1.css.map": "/intro-to-react-train/static/css/main.8df914c1.css.map",
+    "main.b1dccd4c.js.map": "/intro-to-react-train/static/js/main.b1dccd4c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8df914c1.css",
+    "static/js/main.b1dccd4c.js"
+  ]
+}
