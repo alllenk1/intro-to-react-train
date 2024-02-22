@@ -5,7 +5,7 @@ import { cnUser } from './User.classname';
 
 import './User.css';
 
-const defaultSrc = "./public/img/default_avatar.jpg";
+const defaultSrc = "./img/default_avatar.jpg";
 
 type UserProps = {
   src?: string;

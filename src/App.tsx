@@ -10,15 +10,15 @@ import './App.css';
 
 const users: UserProps[] = [
   {
-    src: './public/img/cucumber.jpg',
+    src: './img/cucumber.jpg',
     login: 'veggy',
   },
   {
-    src: './public/img/sleepy_cat.jpg',
+    src: './img/sleepy_cat.jpg',
     login: 'zaika-kot',
   },
   {
-    src: './public/img/coffee.jpg',
+    src: './img/coffee.jpg',
     login: 'someone else',
   },
 ]
@@ -32,7 +32,7 @@ const App = () => {
       <Button text='Hello'/>
 
       <Task title='Круглый юзерак' description='Сделайте компонент с аватаркой пользователя и его логином (ссылка на аватарку и логин должны передаваться через пропсы). Отобразите компонент в интерфейсе'/>
-      <User src='./public/img/allenk.jpg' login='allenk'/>
+      <User src='./img/allenk.jpg' login='allenk'/>
 
       <Task title='Дружочки-кружочки' description='Сделайте массив объектов данных пользователей и отобразите на его основе несколько бейджиков пользователей из прошлой задачи'/>
       <div className={cnApp('users')}>
