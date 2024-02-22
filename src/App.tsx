@@ -8,18 +8,17 @@ import type { UserProps } from './components/User/User';
 
 import './App.css';
 
-
 const users: UserProps[] = [
   {
-    src: '/img/cucumber.jpg',
+    src: '/public/img/cucumber.jpg',
     login: 'veggy',
   },
   {
-    src: '/img/sleepy_cat.jpg',
+    src: '/public/img/sleepy_cat.jpg',
     login: 'zaika-kot',
   },
   {
-    src: '/img/coffee.jpg',
+    src: '/public/img/coffee.jpg',
     login: 'someone else',
   },
 ]
