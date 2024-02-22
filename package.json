@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://alllenk1.github.io/intro-to-react-training",
+  "homepage": "https://alllenk1.github.io/intro-to-react-training-2",
   "private": true,
   "dependencies": {
     "@bem-react/classname": "^1.6.0",
